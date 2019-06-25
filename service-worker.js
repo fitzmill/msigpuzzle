@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/msigpuzzle/precache-manifest.290a1f0e8ba97f802115750f585ee2e0.js"
+  "/msigpuzzle/precache-manifest.669f296de8c4501a94083154e2d962ce.js"
 );
 
 self.addEventListener('message', (event) => {

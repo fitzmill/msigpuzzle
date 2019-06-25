@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/msigpuzzle/static/css/main.ce3220d5.chunk.css",
-    "main.js": "/msigpuzzle/static/js/main.f6da34e0.chunk.js",
-    "main.js.map": "/msigpuzzle/static/js/main.f6da34e0.chunk.js.map",
+    "main.css": "/msigpuzzle/static/css/main.1b2a0642.chunk.css",
+    "main.js": "/msigpuzzle/static/js/main.10139a4f.chunk.js",
+    "main.js.map": "/msigpuzzle/static/js/main.10139a4f.chunk.js.map",
     "runtime~main.js": "/msigpuzzle/static/js/runtime~main.691ce955.js",
     "runtime~main.js.map": "/msigpuzzle/static/js/runtime~main.691ce955.js.map",
     "static/css/2.f5b2e8f7.chunk.css": "/msigpuzzle/static/css/2.f5b2e8f7.chunk.css",
     "static/js/2.0dffaea0.chunk.js": "/msigpuzzle/static/js/2.0dffaea0.chunk.js",
     "static/js/2.0dffaea0.chunk.js.map": "/msigpuzzle/static/js/2.0dffaea0.chunk.js.map",
     "index.html": "/msigpuzzle/index.html",
-    "precache-manifest.290a1f0e8ba97f802115750f585ee2e0.js": "/msigpuzzle/precache-manifest.290a1f0e8ba97f802115750f585ee2e0.js",
+    "precache-manifest.669f296de8c4501a94083154e2d962ce.js": "/msigpuzzle/precache-manifest.669f296de8c4501a94083154e2d962ce.js",
     "service-worker.js": "/msigpuzzle/service-worker.js",
     "static/css/2.f5b2e8f7.chunk.css.map": "/msigpuzzle/static/css/2.f5b2e8f7.chunk.css.map",
-    "static/css/main.ce3220d5.chunk.css.map": "/msigpuzzle/static/css/main.ce3220d5.chunk.css.map"
+    "static/css/main.1b2a0642.chunk.css.map": "/msigpuzzle/static/css/main.1b2a0642.chunk.css.map"
   }
 }
